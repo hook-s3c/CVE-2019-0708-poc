@@ -1,0 +1,5 @@
+# CVE-2019-0708
+
+Big shout out to the Dox King Krebs and also the thief of inventions and all-purpose fraud, Kevin.
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ 
